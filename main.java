@@ -2,12 +2,7 @@
 class main {
 	public static void main(String[] args){
 		
-<<<<<<< HEAD
-	String name  = "master"
-	
-=======
-	String name = "zhangsan"
->>>>>>> zhangsan
+Stirng name = "解决冲突的办法"
 	private String name;
 	private int age
 	}
