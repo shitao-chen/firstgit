@@ -4,5 +4,6 @@ class test{
 		System.out.println("hello world")
 		System.out.println("你好")
 		System.out.println("萨瓦迪卡")
+		System.out.println("咔嘣咔")
 	}
 }
